@@ -22,6 +22,7 @@ module JM3
         { :host => "is.gd",   :pattern => %r'(http://is\.gd(/[\w/]+))' },
         { :host => "bit.ly",  :pattern => %r'(http://bit\.ly(/[\w/]+))' },
         { :host => "t.co",    :pattern => %r'(http://t\.co(/[\w/]+))' },
+        { :host => "s.vk.nl",    :pattern => %r'(http://s\.vk\.nl(/[\w/]+))' },
       ]
     end
 
